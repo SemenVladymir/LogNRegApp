@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogNRegApp</string>
+    <string name="enter_to_the_app">Enter_to_the_app</string>
+    <string name="txtlogin">Login</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="login">Enter</string>
+    <string name="camera">Camera</string>
+    <string name="picture_galerry">Picture galerry</string>
+    <string name="choose">Choose</string>
+</resources>
